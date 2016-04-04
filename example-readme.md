@@ -4,21 +4,24 @@
 
 Love your spuds! Track daily potato growth and weather conditions.
 
+##### Link to hosted project on Heroku
+
 ## Technologies Used
 
 *What technologies did you use to develop this project? (bullet points)*
 
-* Node.js, Express
-* MongoDB, Mongoose
-* HTML, CSS, jQuery
+* Node.js
 * Weather API
+* Potatometer
+
+*...*
 
 ## Existing Features
 
 *What features does your racing game have? (bullet points)*
 
 * Add log entries to track potato growth.
-* Name your potatos, and link to images of each potato.
+* Name your potatos.
 
 *...*
 
@@ -30,6 +33,7 @@ Love your spuds! Track daily potato growth and weather conditions.
 * View an auto-generated gif of each potato's daily progress since tracking started.  
 * See more detailed weather information with a different API.
 * Forecast potato growth based on weather and past growth during that kind of weather. 
+* Chart potato growth statistics over time.
 
 ---
 
@@ -37,4 +41,4 @@ Love your spuds! Track daily potato growth and weather conditions.
 
 ![potato growth](http://www.potato2008.org/images/stages.gif)
 
-##### Link to hosted project on Heroku
+
