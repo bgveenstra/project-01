@@ -1,4 +1,4 @@
-# Potato-Mazing *(App Name)*
+# Potato-mazing *(App Name)*
 
 *Short explanation of the project (1-2 sentences) - what is the goal of the project and/or main functionality?*
 
