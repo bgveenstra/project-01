@@ -28,8 +28,8 @@ Love your spuds! Track daily potato growth and weather conditions.
 *What changes would you make to your project if you continue to work on it? (bullet points)*
 
 * View an auto-generated gif of each potato's daily progress since tracking started.  
-* See more detailed weather information.  
-* Forecast potato growth.  
+* See more detailed weather information with a different API.
+* Forecast potato growth based on weather and past growth during that kind of weather. 
 
 ---
 
