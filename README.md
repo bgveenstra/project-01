@@ -25,7 +25,7 @@ Make sure to do all of the following with your app.
 * **Code Style** Write professional-looking code. Follow the [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript/tree/master/es5).
 * **Visual Design** Use Twitter Bootstrap, Foundation, Skeleton, or another CSS framework to make your front-end snazzy. First impressions matter!
 * **Heroku** Deploy your app to Heroku.
-* **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged.
+* **Documentation** Write a README.md that would make an employer excited to hire you. Screenshots are encouraged. See the [example readme](./example-readme.md) for a suggested structure.
 
 ## BONUS IDEAS  
 If you want to push yourself and learn something new, optionally consider doing some of the following with your app, but *please talk to an instructor* beforehand:
@@ -41,7 +41,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ## TIMELINE
 
-> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET]().
+> DO NOT START CODING UNTIL YOUR PROJECT IS APPROVED. CONFIRM THAT YOU ARE APPROVED ON THIS SPREADSHEET: [PROJECT APPROVAL SPREADSHEET](https://docs.google.com/spreadsheets/d/1T3A_lZtaI7uZt3kkF2wZZ7sfjczOqB8dnax3BTJkvJk/edit?usp=sharing).
 
 
 * **Wednesday, April 6th by 3:00pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the following must be checked off by an instructor:
