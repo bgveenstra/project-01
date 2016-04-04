@@ -4,7 +4,7 @@
 
 Love your spuds! Track daily potato growth and weather conditions.
 
-##### Link to hosted project on Heroku
+[Link to project hosted on Heroku]()
 
 ## Technologies Used
 
