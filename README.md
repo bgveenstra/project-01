@@ -48,7 +48,7 @@ If you want to push yourself and learn something new, optionally consider doing 
     * A clearly defined **Minimum Viable Product** ([MVP](http://en.wikipedia.org/wiki/Minimum_viable_product)). What can you reasonably accomplish in a week?
     * **Wireframes** for _every_ page. These don't have to be pretty; just sketch what the page will include.
     * **User Stories** (divided into sprints) - we recommend [Trello](https://trello.com/) for project tracking.
-    * **Database Model** plans for each resource.  List the attributes you'll include in your schema and what type of data they will store. Draw an [Entity Relationship Diagram](https://www.google.com/search?tbm=isch&q=database%20table%20relationships%20drawing) to illustrate your relationship(s), and note whether you plan to reference or embed related data.
+    * **Database Models** Make plans for each resource.  List the attributes you'll include in your schemas and what type of data each attribute will be. Draw an [Entity Relationship Diagram](https://www.google.com/search?tbm=isch&q=database%20table%20relationships%20drawing) to illustrate the relationship(s) between models, and note whether you plan to reference or embed related data.
     * A project-01 **GitHub Repo** with your teaching team added as collaborators.
 * **Weekdays, April 7th-11th** - Standups @ 10am. Afternoon 1:1s with instructors.
 * **Monday, April 11th** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
